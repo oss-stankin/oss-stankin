@@ -18,4 +18,4 @@
 
 ## Лицензия
 
-Этот репозиторий лицензирован под лицензией [MIT License](../LICENSE) (c) 2021 iPagar
+Этот репозиторий лицензирован под лицензией [MIT License](https://github.com/iPagar/oss-stankin/blob/main/LICENSE) (c) 2021 iPagar
