@@ -1,45 +1,45 @@
-# Maintainer's Guide
+# Руководство по сопровождению
 
-As a maintainer of an open source project, you become the face of the company to a community of users and potential contributors. Your actions as a maintainer reflect on our organization as a whole. Before you begin this journey, consider what it means to be a maintainer:
+Будучи владельцем проекта с открытым исходным кодом, ты становишься лицом проекта для сообщества пользователей и потенциальных участников. Твои действия в качестве создателя отражаются на нашей организации в целом. Прежде чем начать это путешествие, подумай, что значит быть владельце проекта:
 
-## The role of the Maintainer
+## Роль владельца
 
-A great maintainer:
+Отличный создатель:
 
-- Takes responsibility for the health of projects they release.
-   - Takes in what they have built, maintains quality to a level befitting of our organization
-   - Responds to issues and pull requests in a timely manner.
-   - If they can no longer maintain the project, they ensure someone else will.
-- Helps users understand how to use their project through documentation and reference implementations
-- Helps contributors understand the work to be done and the type of contributions you will accept
-- Helps new contributors find meaningful, helpful contributions
-- Responds to and supports users reporting bugs or making contributions
-   - Identifies who will address bugs
-   - Updates the project to the latest versions of dependencies like Ruby or Java?
-- Speaks with respect and consideration
-   - A good maintainer treats users and contributors fairly, kindly, and with respect.
-   - They show appreciation for contributions and are compassionate when offering feedback.
-- Enforces the code of conduct to provide a safe, supportive community
+- Берут на себя ответственность за поддержку проектов, которые они выпускают
+- Понимают то, что они построили, поддерживает качество на уровне.
+- Своевременно реагируют на issues и pull requests
+- Если они больше не могут поддерживать проект, они гарантируют, что это сделает кто-то другой
+- Помогают пользователям понять, как использовать свой проект с помощью документации
+- Помогают contributors понять, какая работа должна быть выполнена
+- Помогают новым участникам найти значимые, полезные занятия
+- Реагирует и поддерживает пользователей, сообщающих об ошибках или вносящих свой вклад
+- Определяют, кто будет устранять ошибки
+- Обновляют проект до последних версий зависимостей, таких как Python или Java
+- Говорят с уважением и вниманием
+- Хороший владелец относится к пользователям и участникам справедливо, доброжелательно и с уважением
+- Они проявляют признательность за вклад и слушают обратную связь
+- Соблюдают Code of Conduct для обеспечения безопасного, поддерживающего сообщества
 
-## Preparing your project for open source
+## Подготовка проекта к публикации
 
-Check out the [key questions](key-questions-for-choosing-projects.md) and open a [new issue](/issues/new?template=new-release.md) in this repository to signal you are planning to  open source the project. Carefully consider what is in your repository. It was once private and may contain confidential or sensitive discussions.
+Проверь [ключевые вопросы](key-questions-for-choosing-projects.md) и открой [new issue](/issues/new?template=new-release.md) в этом репозитории, чтобы оповестить о том, что вы планируете открыть исходный код проекта. Внимательно рассмотрите, что находится в вашем репозитории. Когда-то он был частным и может содержать конфиденциальные данные.
 
-## Maintaining your project
+## Поддержание проекта
 
-Create clear documentation for your project to explain the following to your future users and contributors:
+Создайте четкую документацию для своего проекта, чтобы объяснить будущим пользователям и участникам следующее:
 
-- How are contributions reviewed and accepted (Do they need tests? An issue template?)
-- What types of contributions will you accept (Do you only want help with a certain part of your code?)
-- When it’s appropriate to follow up (ex. “You can expect a response from a maintainer within 7 days. If you haven’t heard anything by then, feel free to ping the thread.”)
-- How much time will you spend on the project (ex. “We only spend about 5 hours per week on this project”)
+- Как рассматриваются и принимаются вклады (нужны ли им тесты? Шаблон проблемы?)
+- Какие виды вклада в проект ты ждешь (Вам нужна помощь только с определенной частью вашего кода?)
+- Когда это уместно для последующего наблюдения (напр. “Вы можете ожидать ответа от сопровождающего в течение 7 дней. Если к тому времени вы ничего не услышите, не стесняйтесь пушить.”)
+- Сколько времени вы потратите на проект (напр. “Мы тратим на этот проект всего около 5 часов в неделю”)
 
-### Encouraging Contributions
+### Поощрение
 
-An Open Source project is stronger when it has an active and passionate community. However, it can be challenging for new contributors to get started. Here are a few tips to help you build a stronger community:
+Проект с открытым исходным кодом сильнее, когда у него есть активное сообщество. Тем не менее, для новых участников начать работу может показаться достаточно сложно. Вот несколько советов, которые помогут тебе построить более сильное сообщество:
 
-- Add labels such as `good-first-PR` or `help-wanted` to Issues and Pull Requests to encourage contributions
-- Hold virtual office hours for your project to allow the community to connect and discuss challenging problems
-- Create great documentation that helps users understand how to use your project, this will make community support a useful task for new contributors  
-- Add a roadmap to your project so others can see where it is heading
-- Celebrate contributions by listing contributors in your repository or on the project website
+- Добавляй ярлыки, такие как "good-first-PR" или "help-wanted", к вопросам и запросам
+- Проводите виртуальные собрания для вашего проекта, чтобы сообщество могло общаться и обсуждать сложные проблемы
+- Создайте отличную документацию, которая поможет пользователям понять, как использовать ваш проект. Это сделает поддержку сообщества полезной задачей для новых участников
+- Добавьте roadmap к вашему проекту, чтобы другие могли видеть, куда он движется
+- Отмечайте вклады, перечисляя вкладчиков в вашем репозитории или на веб-сайте проекта(в приложении и т.д.)
