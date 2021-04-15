@@ -1,18 +1,12 @@
 # Availability
 
-We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @Octocorp/maintainers team to stick to this response time.
-
-# Organization and repository structure
-
-All our repositories are housed within the Octocorp organization.
+We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @iPagar/oss-stankin team to stick to this response time.
 
 # Maintainer responsibilities
 
 ### Identifying maintainers, contributors, and the general public
 
-When interacting in a repository owned by the Octocorp organization, you are speaking on behalf of the company.
-
-Employees are identified with an OWNER badge.
+Owners are identified with an OWNER badge.
 
 <img width="774" alt="owner-badge" src="https://user-images.githubusercontent.com/16547949/33770589-38f46312-dbfc-11e7-97a8-43118a086467.png">
 
@@ -26,6 +20,6 @@ Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we exp
 
 Violations are not tolerated, but there are always some gray areas.
 
-- **All incidents** are logged in our <INTERNAL TOOL>. This ensures gray areas do not escalate to a violation without the awareness of all maintainers.
-- **Indirect violations or gray areas** can usually be addressed with a warning. Send the user a direct message if possible (say, if they're on our Slack instance). If the violation occurred in an issue, pull request, or other public space, you should respond publicly as well. It is important that all community members see violations are not tolerated.
+- **All incidents** are logged in. This ensures gray areas do not escalate to a violation without the awareness of all maintainers.
+- **Indirect violations or gray areas** can usually be addressed with a warning. Send the user a direct message if possible (say, if they're on our Telegram instance). If the violation occurred in an issue, pull request, or other public space, you should respond publicly as well. It is important that all community members see violations are not tolerated.
 - **Direction violations** require action immediately. This may include removing an offensive comment, [blocking the user](https://help.github.com/articles/blocking-a-user-from-your-organization/) from our organization, and [reporting them to GitHub](https://help.github.com/articles/reporting-abuse-or-spam/) directly.
