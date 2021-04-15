@@ -1,6 +1,6 @@
 # Stankin Open Source
 
-Ты хочешь выпустить продукт с открытым исходным кодом? Потрясающе! Все зависит от тебя, но не волнуйтесь, вы не одиноки. Открой [new issue](issues/new?template=new-release.md), чтобы начать работу. [Учитывай issues, когда будешь создавать проект.](docs/key-questions-for-choose-projects.md)
+Ты хочешь выпустить продукт с открытым исходным кодом? Потрясающе! Все зависит от тебя, но не волнуйтесь, вы не одиноки. Открой [new issue](https://github.com/iPagar/oss-stankin/issues/new?template=new-release.md), чтобы начать работу. [Учитывай issues, когда будешь создавать проект.](docs/key-questions-for-choose-projects.md)
 
 ## Что должно быть Open Source?
 
