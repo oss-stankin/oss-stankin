@@ -1,25 +1,25 @@
-# Availability
+# Доступность
 
-We respond to newly opened issues within 48 hours during business hours. This is advertised in our README. It is the responsibility of the @iPagar/oss-stankin team to stick to this response time.
+Мы отвечаем на вновь открывшиеся вопросы в течение недели. Команда @iPagar/oss-stankin несет ответственность за то, чтобы придерживаться этого времени.
 
-# Maintainer responsibilities
+# Обязанности владельца
 
-### Identifying maintainers, contributors, and the general public
+### Определение создателей, участников и общественности
 
-Owners are identified with an OWNER badge.
+Владельцы идентифицируются с помощью значка OWNER .
 
 <img width="774" alt="owner-badge" src="https://user-images.githubusercontent.com/16547949/33770589-38f46312-dbfc-11e7-97a8-43118a086467.png">
 
-Community members with prior contributions will be identified with a CONTRIBUTOR badge, and those without prior contributions will not have a badge.
+Члены сообщества с предыдущими вкладами в развитие будут идентифицированы с помощью значка CONTRIBUTOR, а те, у кого нет предыдущих взносов, не будут иметь значка.
 
 <img width="778" alt="contributor-badge" src="https://user-images.githubusercontent.com/16547949/33770637-6f3b5ebc-dbfc-11e7-882b-f7e9dd3d155b.png">
 
-### Enforcing to the code of conduct
+### Соблюдение кодекса поведения
 
-Our [CODE OF CONDUCT](templates/code-of-conduct.md) outlines the behavior we expect from our community. Maintainers are responsible for enforcing violations they witness, or those that have been reported to <EMAIL-FROM-CODE-OF-CONDUCT>.
+Наш [КОДЕКС ПОВЕДЕНИЯ](templates/code-of-conduct.md) описывает поведение, которое мы ожидаем от нашего сообщества. Владельцы несут ответственность за обеспечение выявления нарушений, свидетелями которых они являются, или тех, о которых было сообщено в <EMAIL-FROM-CODE-OF-CONDUCT>.
 
-Violations are not tolerated, but there are always some gray areas.
+Нарушения не допускаются, но всегда есть какие-то незатронутые понятия.
 
-- **All incidents** are logged in. This ensures gray areas do not escalate to a violation without the awareness of all maintainers.
-- **Indirect violations or gray areas** can usually be addressed with a warning. Send the user a direct message if possible (say, if they're on our Telegram instance). If the violation occurred in an issue, pull request, or other public space, you should respond publicly as well. It is important that all community members see violations are not tolerated.
-- **Direction violations** require action immediately. This may include removing an offensive comment, [blocking the user](https://help.github.com/articles/blocking-a-user-from-your-organization/) from our organization, and [reporting them to GitHub](https://help.github.com/articles/reporting-abuse-or-spam/) directly.
+- **Все инциденты** регистрируются. Это гарантирует, что они не перерастут в нарушение без ведома всех владельцев.
+- **Косвенные нарушения** обычно могут быть устранены с помощью предупреждения. Отправьте пользователю прямое сообщение, если это возможно (скажем, если он находится в Telegram). Если нарушение произошло в issue, pull request или другом публичном пространстве, вы также должны ответить публично. Важно, чтобы все члены сообщества видели, что нарушения недопустимы.
+- **Прямые нарушения** требуют немедленных действий. Это может включать удаление оскорбительного комментария, [блокировку пользователя](https://help.github.com/articles/blocking-a-user-from-your-organization/) от нас и [сообщать о них на GitHub](https://help.github.com/articles/reporting-abuse-or-spam/) непосредственно.
