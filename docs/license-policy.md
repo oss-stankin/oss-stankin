@@ -1,5 +1,5 @@
 ## Open Source License Policy
 
-### Our Preferred Licenses
+### Предпочитаемые лицензии
 
-- For projects, we use [MIT](https://choosealicense.com/licenses/mit/)
+- Для проектов мы используем [MIT](https://choosealicense.com/licenses/mit/)
