@@ -5,28 +5,28 @@
 [style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+Привет! Помоги развивать студенческое Open Source сообщество МГТУ Станкин! Прими участие в развитии проекта!
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+Обязательно следуй в соответствии с [Кодексом поведения участника][code_of_conduct].
 
-## Submitting a pull request
+## Pull request
 
-0. [Fork][fork] and clone the repository
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change and remember to add tests
-0. Build the project locally and run local tests
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+0. [Скопируй][fork] репозиторий
+0. Создай новую ветвку: `git checkout -b my-branch-name`
+0. Внеси изменения и добавь тесты по возможности
+0. Запусти проект и проверь тесты
+0. Загрузи ветку и [отправь pull request][pr]
+0. Подожди, пока pull request будет рассмотрен.
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Старайся применять в работе:
 
-- Follow the [style guide][link to styleguide].
-- Write tests.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
-- Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- Следуй [руководству по стилю][ссылка на styleguide].
+- Пиши тесты.
+- Держи ваши изменения как можно более сосредоточенными. Если ты хочешь внести изменения, которые не зависят друг от друга, отправь их как отдельные pull request'ы.
+- Пиши [хорошие commit'ы](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-## Resources
+## Ресурсы
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [Как внести свой вклад в открытый исходный код](https://opensource.guide/how-to-contribute/)
+- [Использование Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
